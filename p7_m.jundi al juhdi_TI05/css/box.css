@@ -1,0 +1,37 @@
+div{
+    width: 700px;
+    height: 600px;
+    /* border-radius: 20px; */
+   margin: auto;
+   margin-left: 35px;
+}
+.container img{
+    width: 154px;
+    height: 154px;
+}
+.container{
+    display: flex;
+    position: absolute;
+    left: 30%;
+}
+
+.Kotak1{
+    background-color: red;
+    border: 1px solid black;
+}
+.Kotak2{
+    background-color: yellow;
+    border: 1px solid black;
+}
+.Kotak3{
+    background-color: green;
+    border: 1px solid black;
+}
+.Kotak4{
+    background-color:  blue;
+    border: 1px solid black;
+}
+
+
+   
+
